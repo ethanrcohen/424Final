@@ -1,0 +1,14 @@
+
+CALsuburb	242
+MITcoast	362
+MITforest	329
+MIThighway	261
+MITinsidecity	310
+MITmountain	376
+MITopencountry	411
+MITstreet	293
+MITtallbuilding	357
+PARoffice	216
+bedroom	218
+kitchen	212
+livingroom	290
